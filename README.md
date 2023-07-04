@@ -11,7 +11,7 @@ Install the [package](https://packagist.org/packages/yrpn/shoppingcart) through 
 
 Run the Composer require command from the Terminal:
 
-    composer require yrpn/shoppingcart
+    composer require nedal-network/shoppingcart
 
 Now you're ready to start using the shoppingcart in your application.
 
